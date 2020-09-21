@@ -1,0 +1,3 @@
+patient_num,Asthma_GoldStandardLabel,BrCa_GoldStandardLabel,COPD_GoldStandardLabel,Depression_GoldStandardLabel,Epilepsy_GoldStandardLabel,HTN_GoldStandardLabel
+FAKE1,,,,,,
+FAKE2,0.0,0.0,0.0,0.0,0.0,1.0
